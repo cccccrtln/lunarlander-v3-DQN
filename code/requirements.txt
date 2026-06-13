@@ -1,0 +1,7 @@
+numpy
+pandas
+matplotlib
+torch
+gymnasium[box2d]
+stable-baselines3
+tabulate

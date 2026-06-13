@@ -1,0 +1,52 @@
+# Python cache and virtual environments
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.venv/
+venv/
+env/
+
+# Jupyter and editor noise
+.ipynb_checkpoints/
+.DS_Store
+Thumbs.db
+
+# Build and package artifacts
+*.zip
+*.tar
+*.gz
+*.7z
+
+# Model and media artifacts
+*.mp4
+*.gif
+*.png
+*.jpg
+*.jpeg
+*.pth
+*.pt
+*.ckpt
+*.onnx
+
+# Local experiment outputs
+agents/logs/
+agents/outputs/
+artifacts/
+results/
+code/results/**
+!code/results/
+!code/results/README.md
+code/outputs/**
+!code/outputs/
+!code/outputs/README.md
+
+# Optional local research mirrors and generated archives
+github1/
+github2/
+agents.zip
+code.zip
+report.zip
+agents/
+Lunarlander_filled.docx
