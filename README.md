@@ -1,4 +1,4 @@
-# CS4486 LunarLander Project
+# LunarLander Project
 
 This repository contains the working materials for a CS4486 reinforcement learning project on `LunarLander-v3`.
 
